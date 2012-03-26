@@ -1,0 +1,16 @@
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\bin\Debug\IMGProc.exe
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\bin\Debug\IMGProc.pdb
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\IMGProc.ImagePreview.resources
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\IMGProc.MainForm.resources
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\IMGProc.Properties.Resources.resources
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\IMGProc.exe
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\IMGProc.pdb
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\IMGProc.ImageHistogram.resources
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\bin\Debug\AForge.dll
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\bin\Debug\AForge.Imaging.dll
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\bin\Debug\AForge.Math.dll
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\bin\Debug\WeifenLuo.WinFormsUI.dll
+D:\Inne\Uczelnia\III rok\APO\IMGProc\IMGProc\obj\x86\Debug\IMGProc.ThresholdForm.resources
